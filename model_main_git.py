@@ -23,6 +23,7 @@ from absl import flags
 from tensorflow.python.framework.versions import VERSION
 if VERSION >= "2.0.0a0":
     import tensorflow.compat.v1 as tf
+    tf.disable_v2_behavior()
 else:
     import tensorflow as tf
 
