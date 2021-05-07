@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>test</folder>
+	<filename>8af420f7f8e8b5e6.jpg</filename>
+	<path>C:\Users\admin\models\research\object_detection\images\test\8af420f7f8e8b5e6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>82</ymin>
+			<xmax>997</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>cb9225aae3fef30f.jpg</filename>
+	<path>C:\Users\admin\models\research\object_detection\images\train\cb9225aae3fef30f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>683</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>71</ymin>
+			<xmax>537</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

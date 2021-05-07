@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>test</folder>
+	<filename>ec3268d9bb5ff731.jpg</filename>
+	<path>C:\Users\admin\models\research\object_detection\images\test\ec3268d9bb5ff731.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>677</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>64</ymin>
+			<xmax>570</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>
